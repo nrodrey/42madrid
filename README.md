@@ -1,2 +1,3 @@
-# 42madrid 🏊‍
-Repository of 42 Madrid Piscine by Raquel
+# 42 Madrid 🏊‍
+Repository of 42 Madrid Piscine (February 2020) by Raquel Cuesta
+
