@@ -1,0 +1,20 @@
+#Con esto generamos el archivo del cual leeremos el tablero
+./generador_perl 10 10 5 > example_file
+
+#Se creará un archivo de este estilo
+10.ox
+...ooo..o.
+.....oo.o.
+..o.....oo
+....o....o
+...o...oo.
+o..o......
+..o...oo..
+.........o
+o.o......o
+..o....o..
+#De este archivo obtenemos como pintamos y el mapa en cuestión
+#10 > numero de lineas en vertical
+#. > como imprimiremos los vacios
+#o > como imprimiremos los obstaculos
+#x > como imprimiremos el relleno
