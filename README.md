@@ -15,8 +15,8 @@ Repository of my solutions for 42 Madrid Piscine (February 2020) by Raquel Cuest
 | c04         	| [6 exercises](https://github.com/raqelcb/42madrid/tree/master/c04/c04.es.pdf)          	| [6 exercises](https://github.com/raqelcb/42madrid/tree/master/c04)                   	|
 | c05         	| [9 exercises](https://github.com/raqelcb/42madrid/tree/master/c05/c05.es.pdf)          	| [5 exercises](https://github.com/raqelcb/42madrid/tree/master/c05)                  	|
 | c06         	| [4 exercises](https://github.com/raqelcb/42madrid/tree/master/c06/c06.es.pdf)           	| [3 exercises](https://github.com/raqelcb/42madrid/tree/master/c06)                   	|
-| Rush 00        	| [Print rectangles](https://github.com/raqelcb/42madrid/tree/master/rush00/colle00.es.pdf) 	| [Done 100%, no bonus](https://github.com/raqelcb/42madrid/tree/master/rush00)                 	|
+| Rush 00        	| [Print rectangles](https://github.com/raqelcb/42madrid/tree/master/rush00/rush00.es.pdf) 	| [Done 100%, no bonus](https://github.com/raqelcb/42madrid/tree/master/rush00)                 	|
 | Rush 01        	| [Skyscraper logic resolver](https://github.com/raqelcb/42madrid/tree/master/rush01/colle01.es.pdf)    	| [Done](https://github.com/raqelcb/42madrid/tree/master/rush01)                  	|
-| Rush 02        	| [Create a dictionary](https://github.com/raqelcb/42madrid/tree/master/rush02/colle02.es.pdf) 	| [Done](https://github.com/raqelcb/42madrid/tree/master/rush02)             	|
+| Rush 02        	| [Create a dictionary](https://github.com/raqelcb/42madrid/tree/master/rush02/rush02.es.pdf) 	| [Done](https://github.com/raqelcb/42madrid/tree/master/rush02)             	|
 | BSQ            	| [BSQ](https://github.com/raqelcb/42madrid/tree/master/bsq/bsq.es.pdf)                     	| [Done](https://github.com/raqelcb/42madrid/tree/master/BSQ)              	|
 
